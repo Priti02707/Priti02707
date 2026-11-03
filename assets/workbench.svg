@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="240" viewBox="0 0 880 240" role="img" aria-labelledby="title desc">
+<title id="title">Priti Kumari · Applied AI Workbench</title>
+<desc id="desc">A midnight blue banner with a mint signal traveling from input to output.</desc>
+<style>
+.signal{stroke-dasharray:28 620;animation:trace 5s linear infinite}
+@keyframes trace{from{stroke-dashoffset:28}to{stroke-dashoffset:-620}}
+@media(prefers-reduced-motion:reduce){.signal{animation:none;opacity:0}}
+</style>
+<rect width="880" height="240" rx="24" fill="#111b30"/>
+<rect x="1" y="1" width="878" height="238" rx="23" fill="none" stroke="#334766"/>
+<g font-family="ui-monospace,monospace" letter-spacing="3" fill="#79e8c3" font-size="17">
+<text x="44" y="53">APPLIED AI WORKBENCH</text>
+</g>
+<text x="42" y="112" fill="#f2f7ff" font-family="system-ui,sans-serif" font-weight="700" font-size="53">Priti Kumari</text>
+<text x="45" y="151" fill="#bccae0" font-family="system-ui,sans-serif" font-size="21">Machine learning · Data analysis · Python apps</text>
+<path d="M46 198H354l17-10 18 20 18-32 19 22h408" fill="none" stroke="#395775" stroke-width="2"/>
+<path class="signal" d="M46 198H354l17-10 18 20 18-32 19 22h408" pathLength="620" fill="none" stroke="#79e8c3" stroke-width="3" stroke-linecap="round"/>
+<g fill="#79e8c3"><circle cx="46" cy="198" r="4"/><circle cx="834" cy="198" r="4"/></g>
+</svg>
